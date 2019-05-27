@@ -6,10 +6,19 @@
     <description>Recent content on Super Jeeve&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 May 2019 16:22:19 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2019 09:48:03 -0400</lastBuildDate>
     
 	<atom:link href="http://jsotomachinecode.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First</title>
+      <link>http://jsotomachinecode.github.io/about/first/</link>
+      <pubDate>Mon, 27 May 2019 09:48:03 -0400</pubDate>
+      
+      <guid>http://jsotomachinecode.github.io/about/first/</guid>
+      <description>This is a simple brief statement about what I&amp;rsquo;m doing with this blog.</description>
+    </item>
     
     <item>
       <title>The Learning Slump</title>
