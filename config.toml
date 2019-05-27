@@ -16,4 +16,5 @@ paginate = 20
     hideCredits = false
     hideCopyright = false
 
-
+[permalinks]
+  posts = "/:year/:month/:title/"
