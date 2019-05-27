@@ -2,6 +2,7 @@ baseURL = "http://jsotomachinecode.github.io/"
 languageCode = "en-us"
 title = "Super Jeeve's Site"
 theme = "ananke"
+publishDir = "jsotomachinecode.github.io"
 
 paginate = 20
 
