@@ -1,0 +1,19 @@
+baseURL = "http://jsotomachinecode.github.io/"
+languageCode = "en-us"
+title = "Super Jeeve's Site"
+theme = "ananke"
+
+paginate = 20
+
+[params]
+    author = "Jose Soto" 
+    description = "Jose Soto's personal learning blog"
+    keywords = "blog,developer,personal, learning, software"
+    info = "Student of all things" 
+    avatarurl = "images/avatar.jpg" 
+    footercontent = "Knowing is not enough, we must apply. Willing is not enough, we must do. Bruce Lee" 
+
+    hideCredits = false
+    hideCopyright = false
+
+
